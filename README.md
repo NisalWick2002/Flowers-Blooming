@@ -3,7 +3,7 @@ This project features a beautiful animation of a bouquet of flowers blooming aga
 
 ## Content
 
-- [Overview](https://github.com/NisalWick2002/BreadcrumbsFlowers-Blooming?tab=readme-ov-file#overview-)
+- [Overview](https://github.com/NisalWick2002/Flowers-Blooming?tab=readme-ov-file#overview-)
 
 
 ## Overview 📋
